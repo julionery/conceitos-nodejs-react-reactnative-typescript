@@ -1,6 +1,6 @@
 <h1 align="center">Conceitos em NodeJS, ReactJS e React Native</h1>
 
-<p align="center">Projeto do primeiro módulo do Bootcamp GoStack da [Rockeseat](https://rocketseat.com.br/).</p>
+<p align="center">Projeto do primeiro módulo do Bootcamp GoStack da <a href="https://rocketseat.com.br/" target="_blank">Rockeseat.</a></p>
 
 ### :rocket: Tecnologias
 - [NodeJS](https://nodejs.org/en/)
