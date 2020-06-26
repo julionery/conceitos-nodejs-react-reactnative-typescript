@@ -6,6 +6,7 @@
 - [NodeJS](https://nodejs.org/en/)
 - [React](https://reactjs.org/ "ReactJS")
 - [React Native](https://reactnative.dev/ "React Native")
+- [Typescript](https://www.typescriptlang.org/)
 
 ### :computer: Bibliotecas e ferramentas:
 - [Axios](https://github.com/axios/axios "Axios")
